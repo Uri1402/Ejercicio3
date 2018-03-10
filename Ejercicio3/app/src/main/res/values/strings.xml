@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name="go_to">Datos Capturados</string>
+    <string name="mostar_dato">Datos Mostrados</string>
+</resources>
